@@ -3,6 +3,7 @@
 ## Requirements
 - PHP 7.3 or higher
 - Composer
+
 No webserver installation is required.
 
 ## Installation
